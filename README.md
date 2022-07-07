@@ -1,6 +1,7 @@
 # ShopRecipe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.  It allows one to upload meal ingredients & images,
+shop for ingredients and adjust ingredients.  It includes authenticated user signup and id creation and CRUD functionality facilated and deployed via Firebase.
 
 ## Deployed app
 
