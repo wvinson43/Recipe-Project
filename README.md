@@ -1,7 +1,12 @@
-# ShopRecipe
+## ShopRecipe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.  It allows one to upload meal ingredients & images,
-shop for ingredients and adjust ingredients.  It includes authenticated user signup and id creation and CRUD functionality facilated and deployed via Firebase.
+This free-lance project, built with Angular and Typescript, was created with supply chain problems in mind.
+
+It allows users to create an account, upload meal ingredients & images, plan recipes, and plan adjustable shopping lists.  
+shop for ingredients and adjust ingredients.  
+
+It includes authenticated user signup and id creation and CRUD functionality facilated and deployed via Firebase.    
+
 
 ## Deployed app
 
@@ -25,4 +30,4 @@ Run `npm e2e` to execute the end-to-end tests via [Protractor](http://www.protra
 
 ## Questions
 
-If you have questions about this app, please email me at wesleyvinson2016@yahoo.com
+If you have questions about this app, please email me at wesleyvinson2022@yahoo.com
